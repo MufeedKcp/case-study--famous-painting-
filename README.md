@@ -9,8 +9,11 @@ This project analyzes a dataset of paintings to uncover insights about the museu
 * country with 5th highest no of painting
 * most popular and least popular painting styles
 
-## Tool Used
-* SQL
+## SQL concepts used 
+* CTE - made my lfe easier
+* subqueries
+* window functions
+* advanced joins
 
 ## Approach
 * small Data cleaning and preprocessing
